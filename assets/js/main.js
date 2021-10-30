@@ -124,7 +124,7 @@ jQuery(document).ready(function($) {
         var $slide = $('.slide');
       
         // give active class to first link
-        $($('nav a')[0]).addClass('active');
+       // $($('nav a')[0]).addClass('active');
         
         // add event listener for mousescroll
         $body.bind('false', mouseEvent);
