@@ -1,7 +1,10 @@
-# dental-zone
-Dental zone - professional website for dental services
+# Dental Zone
+***Professional website for dental services***
 
-This website is used to provide the basic information about dental services offered by two young dentists based in Niš, Serbia.
+This website is used to provide the basic information about dental services offered by two young dentists based in Niš, Serbia. 
+
+Emilija Jovanović & Filip Antić
+
 Basically, it consists of four simple pages:
 - **Homepage**
 - **About Us** 
